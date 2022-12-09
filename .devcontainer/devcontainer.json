@@ -1,0 +1,7 @@
+{
+    "name": "devcontainer-node-test",
+    "dockerFile": "Dockerfile",
+    "remoteUser": "node"
+    // "extensions": [
+    // ]
+}
